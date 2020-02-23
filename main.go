@@ -17,5 +17,6 @@ package main
 import "yugescraper/cmd"
 
 func main() {
+	// ye get me
 	cmd.Execute()
 }
